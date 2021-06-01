@@ -21,4 +21,3 @@ Sumo Duel -
 Game over!
 Most Kills - 
 DRAW! 
-Murderer 
