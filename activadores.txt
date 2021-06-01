@@ -20,3 +20,4 @@ Murderer:
 Sumo Duel - 
 Game over!
 Most Kills - 
+DRAW! 
