@@ -21,3 +21,4 @@ Sumo Duel -
 Game over!
 Most Kills - 
 DRAW! 
+starts 
